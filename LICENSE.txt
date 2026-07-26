@@ -1,0 +1,134 @@
+================================================================================
+END USER LICENSE AGREEMENT (EULA) FOR QPLAT SOFTWARE
+Copyright (c) 2012-2026 Velosk, Inc. All rights reserved.
+Last Updated: Jul 2026
+================================================================================
+
+IMPORTANT - READ CAREFULLY:
+This End User License Agreement ("EULA") is a legal agreement between you
+(either an individual or a single entity, hereinafter "Licensee") and
+Velosk, Inc. ("Licensor") for the Qplat software product line, including
+Qplat Community Edition (CE) and Qplat R Series (RS) (collectively, "Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound
+by the terms of this EULA. If you do not agree to the terms of this EULA,
+do not install, copy, or use the Software.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 1. GRANT OF LICENSE BY EDITION
+--------------------------------------------------------------------------------
+
+1.1. Qplat Community Edition (CE)
+  (a) Free Tier & Scope: Subject to the terms of this EULA, Licensor grants
+      Licensee a royalty-free, non-exclusive, non-transferable license to use
+      and distribute Qplat CE for both individual and commercial purposes.
+  (b) Mandatory License Requirements: Licensee MUST obtain a separate commercial
+      license from Licensor to unlock or utilize any of the following capabilities:
+        1) Enabling or utilizing Multi-Factor Authentication (MFA);
+        2) Retaining, storing, or querying audit logs / activity histories for
+           a period exceeding seven (7) days; OR
+        3) Registering or utilizing more than five (5) total user accounts.
+  (c) Breach of Free Tier Limits: Any feature activation or operational scale
+      exceeding the conditions specified in Section 1.1(b) without a valid
+      paid license issued by Licensor constitutes a material breach of this EULA
+      and an infringement of Licensor's intellectual property rights.
+
+1.2. Qplat R Series (RS)
+  (a) Evaluation / Trial License: Licensor grants Licensee a limited, temporary,
+      royalty-free license to use Qplat R Series solely for testing and
+      evaluation purposes for up to ninety (90) consecutive days, without
+      restrictions on the number of registered user accounts or target servers.
+  (b) Commercial License Requirement: For production use or continued usage
+      beyond the 90-day evaluation period, Licensee must execute a formal commercial
+      contract with Licensor and obtain an official commercial license key.
+  (c) Scope of Usage: The permissible scope, allowed user count, target server
+      limits, and license validity period for commercial deployments shall be
+      strictly governed by the terms specified in the commercial agreement
+      executed between Licensor and Licensee.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 2. PROHIBITED ACTIONS & RESTRICTIONS
+--------------------------------------------------------------------------------
+
+Licensee shall not, directly or indirectly, nor permit any third party to:
+  1. Reverse engineer, decompile, disassemble, or attempt to derive or reconstruct
+     the source code, underlying algorithms, or data structures of the Software
+     by any means whatsoever.
+  2. Rent, lease, lend, resell, sublicense, or grant sublicenses to the Software
+     to any third party without prior express written consent from Licensor.
+  3. Bypass, disable, tamper with, or circumvent any license key verification,
+     feature locks, retention controls, or user account limitations enforced
+     within the Software.
+  4. Modify, adapt, translate, alter, or create derivative works based upon
+     the Software.
+  5. Remove, alter, or obscure any proprietary notices, trademarks, or copyright
+     attributions contained within or on the Software.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 3. OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS
+--------------------------------------------------------------------------------
+
+Title, ownership rights, and all intellectual property rights in and to the
+Software (including but not limited to source code, compiled binaries, user
+interfaces, designs, documentation, and trademarks) shall remain exclusively
+with Velosk, Inc. This EULA grants Licensee limited rights to use the Software
+and does not convey any title or ownership interest to Licensee.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 4. DISCLAIMER OF WARRANTY
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL OPERATE UNINTERRUPTED, ERROR-FREE,
+OR COMPLETELY SECURE, NOR DOES IT ASSUME LIABILITY FOR ANY OPERATIONAL DISRUPTIONS,
+SECURITY INCIDENTS, OR DATA LOSS ARISING FROM THE USE OF THE SOFTWARE.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 5. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE
+DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, BUSINESS INTERRUPTION,
+LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE
+OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 6. TERMINATION
+--------------------------------------------------------------------------------
+
+This EULA is effective until terminated. Licensee's rights under this EULA
+will terminate automatically without notice from Licensor if Licensee fails
+to comply with any term(s) of this EULA. Upon termination, Licensee shall
+immediately cease all use of the Software and permanently destroy all copies,
+full or partial, of the Software in its possession or control.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 7. GOVERNING LAW AND JURISDICTION
+--------------------------------------------------------------------------------
+
+This EULA shall be governed by and construed in accordance with the laws of
+the Republic of Korea. Any legal dispute, controversy, or claim arising out
+of or relating to this EULA shall be subject to the exclusive jurisdiction of
+the competent district court having jurisdiction over Licensor's principal office.
+
+
+--------------------------------------------------------------------------------
+ARTICLE 8. CONTACT & INQUIRIES
+--------------------------------------------------------------------------------
+
+For license purchases, technical support services, commercial inquiries, or
+business partnerships, please contact:
+  - Company: Velosk, Inc.
+  - Sales & Business Contact: sales@velosk.com
+================================================================================
