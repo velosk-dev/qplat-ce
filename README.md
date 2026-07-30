@@ -47,9 +47,10 @@ Qplat is a centralized, 100% GUI-based server operation management system that m
 
 ## 💳 License
 
-Qplat is currently available in **2 license types**: To purchase license, send email to [sales@velosk.com](mailto:sales@velosk.com)
+Qplat is currently available in **2 license types**: 
 
-### 1. CE (Community Edition) ![Freemium](https://img.shields.io/badge/License-Freemium-blue?style=flat-square) : Default
+### 1. CE (Community Edition) : Default
+![Freemium](https://img.shields.io/badge/License-Freemium-blue?style=flat-square)
 
 Includes most of Qplat's core features with **no limit on the number of agents**.
 However, a paid license purchase is required to unlock the following features:
