@@ -42,7 +42,7 @@ Qplat is a centralized, 100% GUI-based server operation management system that m
 2. Extract the downloaded zip file. It contains all necessary files for installation and updates.
 3. Open the extracted `qplat_operation_manual_<version_and_build_number>.pdf` file to view full instructions for installation and operation.
 
-> 💡 *Note: If you want to download the latest operation manual only, click here : [qplat_operation_manual.pdf](https://github.com/velosk-dev/qplat-ce/blob/main/qplat_operation_manual.pdf?raw=true) *
+> 💡 *Note: If you want to download the latest operation manual only, click here : [qplat_operation_manual.pdf](https://raw.githubusercontent.com/velosk-dev/qplat-ce/main/qplat_operation_manual.pdf) *
 
 ---
 
@@ -89,7 +89,7 @@ If you wish to switch to the **R Series** license after installation, follow the
 
 ## 📚 Documentation
 
-* **Operation Manual**: [qplat_operation_manual.pdf](https://github.com/velosk-dev/qplat-ce/blob/main/qplat_operation_manual.pdf?raw=true)
+* **Operation Manual**: [qplat_operation_manual.pdf](https://raw.githubusercontent.com/velosk-dev/qplat-ce/main/qplat_operation_manual.pdf)
   > 💡 *Note: The manual is also included within each installation package (`.zip`) file.*
 
 ---
@@ -107,5 +107,5 @@ If you wish to switch to the **R Series** license after installation, follow the
 ---
 
 <p align="center">
-  Copyright © 2012-present <b>Velosk, Inc.</b> All rights reserved.
+  Copyright © 2012-2026 <b>Velosk, Inc.</b> All rights reserved.
 </p>
