@@ -1,55 +1,103 @@
 # Qplat CE (Community Edition)
 
-> **Secure & High-Productivity Server Operation Management System with SSO and Granular Operation Privileges**
+> **Secure & Convenient Server Operation Management System with SSO and Granular Operation Privileges**
 
 [![Release](https://img.shields.io/github/v/release/velosk-dev/qplat-ce?color=blue&label=Latest%20Release)](https://github.com/velosk-dev/qplat-ce/releases)
-[![Free Tier](https://img.shields.io/badge/Freemium-Up%20to%205%20Users%20Free-green)](#license--pricing)
+<!-- [![Free Tier](https://img.shields.io/badge/Freemium-Up%20to%205%20Users%20Free-green)](#license--pricing) -->
 
-Qplat CE is a centralized, **100% GUI-based server operation management system** designed for system administrators, developers, and operators. Eliminate raw terminal risks, streamline multi-server management with **Single Sign-On (SSO)**, enforce **granular operation privileges**, and automate repetitive tasks safely with **Job Flows**—all without altering target server OS configurations.
-
----
-
-## ✨ Key Features
-
-### 1. 100% GUI & Multi-Server Operations
-* **No OS Modification Required**: Centralized server management without altering target OS settings, accounts, or configurations.
-* **Unified Workspace**: Manage all server operations, file transfers, and routine tasks in a single intuitive GUI interface.
-* **Error Prevention**: Built-in human-error warnings to prevent accidental execution or unintended changes.
-
-### 2. SSO & Granular Operation Privileges
-* **Single Sign-On (SSO)**: Access all registered servers with a single secure login—no need to manage individual SSH keys or passwords.
-* **Granular Privilege Control**: Fine-tune specific operation privileges (Read, Write, Edit, Execute, Upload, Download) per user or group centrally within Qplat.
-* **Raw Credential Protection**: Keep team members and external partners safe in a controlled environment without issuing direct root or OS credentials.
-
-### 3. Job Automation & Productivity
-* **Workflow Automation**: Schedule and automate multi-step operations across multiple servers using visual **Job Flows**.
-* **Drag-and-Drop File Transfers**: Transfer files seamlessly between local PCs and servers, or server-to-server.
+Qplat is a centralized, 100% GUI-based server operation management system that makes daily server operations easier, faster, and more convenient for system administrators, developers, and service operators. Eliminate raw terminal risks, streamline multi-server management with Single Sign-On (SSO), enforce granular operation privileges, and automate repetitive tasks safely with GUI components and predefined job execution features.
 
 ---
 
-## 🚀 Quick Start & Installation
+## 🚀 Key Features & Highlights
 
-### Step 1. Download Release
-1. Go to the [Qplat CE Latest Releases Page](https://github.com/velosk-dev/qplat-ce/releases).
-2. Download the latest installation package (`.zip` / `.tar.gz`) along with the documentation.
-3. Extract the downloaded installation package to your desired directory.
+### 🛠️ Intuitive GUI & Human Error Prevention
+*Designed to prevent human errors and unauthorized actions while enhancing operational convenience by replacing risky CLI entries with intuitive, menu-driven GUI components. *
 
-### Step 2. Detailed Setup & Operation
-* For step-by-step installation instructions, initial system setup, and comprehensive usage guidelines, please refer to the official PDF manual:
-  * 📄 **[Download Qplat CE User Manual (PDF)](https://github.com/velosk-dev/qplat-ce/releases)**
+* **Single Sign-On (SSO):** Access all authorized servers and perform permitted operations with a single authentication.
+* **File System Explorer:** Navigate server directories effortlessly with custom bookmarks for quick access.
+* **Seamless File Transfers:** Upload, download, and execute direct Server-to-Server transfers using simple Drag & Drop or Copy & Paste.
+* **Parallel Multi-Destination Transfer:** Transfer files and folders from a single source to multiple target locations simultaneously.
+* **Realtime Text File Viewer:** View, tail, grep and split GB size logs and text files on-the-fly without downloading them to your local machine.
+* **Online Text File Editor:** Edit server text files directly without needing terminal editors like 'vi'.
+* **Parallel Multi-Server Search:** Search file names, sizes, and internal contents across multiple servers at once.
+* **Built-in Trash Bin:** Safeguard against accidental file deletions with immediate recovery options.
+* **Archive Inspection:** Browse and search contents inside compressed archives (`.zip`, `.tar`, etc.) without extraction.
+* **Job & Workflow Automation:** Execute pre-defined command-line and file transfer jobs with serial or parallel workflow.
+
+---
+
+### 🛡️ Centralized Security & Governance
+*Safely offload even administrative tasks to users like service operators and developers based on their roles.*
+
+* **Role Based Security:** Enforce fine-grained Role-Based Access Control(RBAC) and Operational Privileges without modifying target server settings, OS accounts, or file permissions.
+* **Stealth UI Security:** Unpermitted servers, directories, files, and jobs are completely invisible on the user interface to ensure zero-trust access control.
+* **Enforced Approval Workflow:** Enforce pre-approval workflows for high-risk operations.
+* **Auditing & Real-time Monitoring:** Track active user sessions in real time and store centralized I/O trace logs for full compliance auditing.
+
+---
+
+## 🚀 Download & Setup
+
+1. Go to the [Releases](https://github.com/velosk-dev/qplat-ce/releases) page and download the latest package (`.zip`) file.
+2. Extract the downloaded zip file. It contains all necessary files for installation and updates.
+3. Open the included `qplat_operation_manual_<version_and_build_number>.pdf` file to view full instructions for installation and operation.
 
 ---
 
 ## 💳 License & Pricing
 
-Qplat CE operates on a **Freemium** model:
-* **Free Tier**: Fully functional for **up to 5 users**. Perfect for small teams, dev environments, and home labs.
-* **Enterprise License**: For deployments requiring more than 5 users or enterprise-grade support, please contact the Velosk sales team.
+Qplat is currently available in **2 license types**:
+
+### 1. CE (Community Edition) : Default
+
+Includes most of Qplat's core features with **no limit on the number of agents**.
+However, a paid license purchase is required to unlock the following features:
+
+* **Multi-Factor Authentication (MFA)** usage
+* **Task Traces**: Storage and viewing of traces older than **1 week**
+* **User Accounts**: Registration and activation of **more than 5 accounts** (including administrators)
+
+> ⚠️ *Note: These conditions may vary depending on the version and build.*
 
 ---
 
-## 💬 Support & Contact
+### 2. R Series
+Allows **unlimited user accounts**. However, licensing is required based on the number of managed servers (Admin Server and Agents).
 
-* **Documentation**: Detailed guides are included in the [Releases](https://github.com/velosk-dev/qplat-ce/releases) section.
-* **Issue Tracker**: Found a bug or have a feature request? Please open an issue on the [GitHub Issues](https://github.com/velosk-dev/qplat-ce/issues) page.
-* **Publisher**: [Velosk Co., Ltd.](https://github.com/velosk-dev)
+* **Server & Agent Licensing**: Purchases are required for the Admin Server and each agent according to the total number of managed servers.
+* **Tiered Pricing**: Agent pricing varies depending on the applied server role or application environment.
+* **Trial Period**: Newly installed agents include a **3-month free trial period** by default.
+
+> ⚠️ *Note: Free trial periods may vary depending on the version and build.*
+
+---
+
+### 💡 How to Change License Type
+
+If you wish to switch to the **R Series** license after installation, follow these steps:
+
+1. Launch the **Qplat client program** and log in with your administrator account.
+   * *Default Administrator ID:* `candleadm`
+2. Navigate to the top main menu:
+   **[Configurations]** ➔ **[Administration Environment]** ➔ **[Licensing Policy]**
+3. Select your desired **License Type** and click the **[Save]** button to apply.
+
+---
+
+## 📚 Documentation
+
+* **Operation Manual**: [qplat_operation_manual.pdf](https://github.com/velosk-dev/qplat-ce/blob/main/qplat_operation_manual.pdf)
+  > 💡 *Note: The manual is also included in each installation package (`.zip`) file.*
+
+---
+
+## 📬 Support & Contact
+
+**Technical Questions, Bug Reports, or Feature Requests**: [help@velosk.com](mailto:help@velosk.com)
+  * *Response is not guaranteed. If guaranteed support is required, please purchase professional technical support services.*
+  * *Submitted inquiries may be copied, extracted, edited, and used for internal company data or disclosed externally (e.g., FAQs, technical documentation) without prior notice. Please do not include personal or security-sensitive information in your inquiries.*
+
+**License & Tech Service Purchases, Business Cooperation**: [sales@velosk.com](mailto:sales@velosk.com)
+
+**Publisher**: [Velosk, inc.](https://github.com/velosk-dev)
