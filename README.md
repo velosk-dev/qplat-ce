@@ -41,13 +41,15 @@ Qplat is a centralized, 100% GUI-based server operation management system that m
 
 1. Go to the [Releases](https://github.com/velosk-dev/qplat-ce/releases) page and download the latest package (`.zip`) file.
 2. Extract the downloaded zip file. It contains all necessary files for installation and updates.
-3. Open the included `qplat_operation_manual_<version_and_build_number>.pdf` file to view full instructions for installation and operation.
+3. Open the extracted `qplat_operation_manual_<version_and_build_number>.pdf` file to view full instructions for installation and operation.
+
+> 💡 *Note: If you want to download the latest operation manual only, click here : [qplat_operation_manual.pdf](https://github.com/velosk-dev/qplat-ce/blob/main/qplat_operation_manual.pdf?raw=true) *
 
 ---
 
 ## 💳 License
 
-Qplat is currently available in **2 license types**: 
+Qplat is currently available in **2 license types**: To purchase license, send email to [sales@velosk.com](mailto:sales@velosk.com)
 
 ### 1. CE (Community Edition) : Default
 ![Freemium](https://img.shields.io/badge/License-Freemium-blue?style=flat-square)
@@ -88,8 +90,8 @@ If you wish to switch to the **R Series** license after installation, follow the
 
 ## 📚 Documentation
 
-* **Operation Manual**: [qplat_operation_manual.pdf](https://github.com/velosk-dev/qplat-ce/blob/main/qplat_operation_manual.pdf)
-  > 💡 *Note: The manual is also included in each installation package (`.zip`) file.*
+* **Operation Manual**: [qplat_operation_manual.pdf](https://github.com/velosk-dev/qplat-ce/blob/main/qplat_operation_manual.pdf?raw=true)
+  > 💡 *Note: The manual is also included within each installation package (`.zip`) file.*
 
 ---
 
@@ -101,4 +103,9 @@ If you wish to switch to the **R Series** license after installation, follow the
 
 **License & Tech Service Purchases, Business Cooperation**: [sales@velosk.com](mailto:sales@velosk.com)
 
-**Publisher**: [Velosk, inc.](http://www.velosk.com)
+**Developed & Published By**: Velosk, inc. [(http://www.velosk.com)](http://www.velosk.com) 
+
+---
+
+**Copyright © 2012-present [Velosk, inc.](http://www.velosk.com) All rights reserved.**
+
