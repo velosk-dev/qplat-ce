@@ -3,7 +3,6 @@
 > **Secure & Convenient Server Operation Management System with SSO and Granular Operation Privileges**
 
 [![Release](https://img.shields.io/github/v/release/velosk-dev/qplat-ce?color=blue&label=Latest%20Release)](https://github.com/velosk-dev/qplat-ce/releases)
-<!-- [![Free Tier](https://img.shields.io/badge/Freemium-Up%20to%205%20Users%20Free-green)](#license--pricing) -->
 
 Qplat is a centralized, 100% GUI-based server operation management system that makes daily server operations easier, faster, and more convenient for system administrators, developers, and service operators. Eliminate raw terminal risks, streamline multi-server management with Single Sign-On (SSO), enforce granular operation privileges, and automate repetitive tasks safely with GUI components and predefined job execution features.
 
@@ -18,7 +17,7 @@ Qplat is a centralized, 100% GUI-based server operation management system that m
 * **File System Explorer:** Navigate server directories effortlessly with custom bookmarks for quick access.
 * **Seamless File Transfers:** Upload, download, and execute direct Server-to-Server transfers using simple Drag & Drop or Copy & Paste.
 * **Parallel Multi-Destination Transfer:** Transfer files and folders from a single source to multiple target locations simultaneously.
-* **Realtime Text File Viewer:** View, tail, grep and split GB size logs and text files on-the-fly without downloading them to your local machine.
+* **Realtime Text File Viewer:** View, tail, grep, and split GB-size logs and text files on-the-fly without downloading them to your local machine.
 * **Online Text File Editor:** Edit server text files directly without needing terminal editors like 'vi'.
 * **Parallel Multi-Server Search:** Search file names, sizes, and internal contents across multiple servers at once.
 * **Built-in Trash Bin:** Safeguard against accidental file deletions with immediate recovery options.
@@ -30,7 +29,7 @@ Qplat is a centralized, 100% GUI-based server operation management system that m
 ### 🛡️ Centralized Security & Governance
 *Safely offload even administrative tasks to users like service operators and developers based on their roles.*
 
-* **Role Based Security:** Enforce fine-grained Role-Based Access Control(RBAC) and Operational Privileges without modifying target server settings, OS accounts, or file permissions.
+* **Role-Based Security:** Enforce fine-grained Role-Based Access Control (RBAC) and Operational Privileges without modifying target server settings, OS accounts, or file permissions.
 * **Stealth UI Security:** Unpermitted servers, directories, files, and jobs are completely invisible on the user interface to ensure zero-trust access control.
 * **Enforced Approval Workflow:** Enforce pre-approval workflows for high-risk operations.
 * **Auditing & Real-time Monitoring:** Track active user sessions in real time and store centralized I/O trace logs for full compliance auditing.
@@ -49,7 +48,7 @@ Qplat is a centralized, 100% GUI-based server operation management system that m
 
 ## 💳 License
 
-Qplat is currently available in **2 license types**: To purchase license, send email to [sales@velosk.com](mailto:sales@velosk.com)
+Qplat is currently available in **2 license types**. To purchase a license, send an email to [sales@velosk.com](mailto:sales@velosk.com).
 
 ### 1. CE (Community Edition) : Default
 ![Freemium](https://img.shields.io/badge/License-Freemium-blue?style=flat-square)
@@ -97,15 +96,16 @@ If you wish to switch to the **R Series** license after installation, follow the
 
 ## 📬 Support & Contact
 
-**Technical Questions, Bug Reports, or Feature Requests**: [help@velosk.com](mailto:help@velosk.com)
+* **Technical Questions, Bug Reports, or Feature Requests**: [help@velosk.com](mailto:help@velosk.com)
   * *Response is not guaranteed. If guaranteed support is required, please purchase professional technical support services.*
   * *Submitted inquiries may be copied, extracted, edited, and used for internal company data or disclosed externally (e.g., FAQs, technical documentation) without prior notice. Please do not include personal or security-sensitive information in your inquiries.*
 
-**License & Tech Service Purchases, Business Cooperation**: [sales@velosk.com](mailto:sales@velosk.com)
+* **License & Tech Service Purchases, Business Cooperation**: [sales@velosk.com](mailto:sales@velosk.com)
 
-**Developed & Published By**: Velosk, inc. [(http://www.velosk.com)](http://www.velosk.com) 
+* **Developed & Published By**: Velosk, Inc. [(http://www.velosk.com)](http://www.velosk.com)
 
 ---
 
-**Copyright © 2012-present [Velosk, inc.](http://www.velosk.com) All rights reserved.**
-
+<p align="center">
+  Copyright © 2012-present <b>Velosk, Inc.</b> All rights reserved.
+</p>
