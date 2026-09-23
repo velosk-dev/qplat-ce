@@ -2,9 +2,7 @@
 
 > **Secure & Convenient Server Operation Management System with SSO and Granular Operation Privileges**
 
-[![Release](https://img.shields.io/github/v/release/velosk-dev/qplat-ce?color=blue&label=Latest%20Release)](https://github.com/velosk-dev/qplat-ce/releases)
-
-[![GitHub release](https://img.shields.io/github/v/release/velosk-dev/qplat-ce)](https://github.com/velosk-dev/qplat-ce/releases)
+[![Release](https://img.shields.io/github/v/release/velosk-dev/qplat-ce)](https://github.com/velosk-dev/qplat-ce/releases)
 
 Qplat is a centralized, 100% GUI-based server operation management system that makes daily server operations easier, faster, and more convenient for system administrators, developers, and service operators. Eliminate raw terminal risks, streamline multi-server management with Single Sign-On (SSO), enforce granular operation privileges, and automate repetitive tasks safely with GUI components and predefined job execution features.
 
